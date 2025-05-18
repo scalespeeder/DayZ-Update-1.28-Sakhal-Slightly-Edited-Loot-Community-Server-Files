@@ -1,6 +1,6 @@
 1.28 DayZ Sakhal Slightly Boosted Loot PvE xml Mod Changelog & Terms Of Use
 
-Limited Testing on PC Sakhal Local Server DAYZ EXPERIMENTAL Version 1.27 Feb 2025.
+Limited Testing on PC Sakhal Local Server DAYZ EXPERIMENTAL Version 1.28 Feb 2025.
 
 Created by @scalespeeder. Please report bugs & errors to scalespeeder@gmail.com with screenshots.
 
